@@ -3,7 +3,7 @@ license = "MIT"
 licenselink = "https://github.com/Crow-OwO/line/blob/master/LICENSE"
 description = "A simple theme."
 homepage = "https://obst.win/"
-tags = [simple, typography]
+tags = ["simple", "typography"]
 features = []
 min_version = "0.41.0"
 
