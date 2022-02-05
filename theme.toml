@@ -1,0 +1,12 @@
+name = "Line"
+license = "MIT"
+licenselink = "https://github.com/Crow-OwO/line/blob/master/LICENSE"
+description = "A simple theme."
+homepage = "https://obst.win/"
+tags = [simple, typography]
+features = []
+min_version = "0.41.0"
+
+[author]
+  name = "Yiyang"
+  homepage = "https://yiyang-hsu.github.io"
